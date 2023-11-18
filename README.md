@@ -4,7 +4,7 @@ Certainly! Here's a concise README for your GitHub project:
 
 # Road Accident Data Analysis with Power BI
 
-![Demo GIF](demo.gif)
+![Demo GIF](dashboard_demo.gif)
 
 ## Overview
 
