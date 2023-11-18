@@ -10,6 +10,7 @@ Certainly! Here's a concise README for your GitHub project:
 
 This project analyzes road accident data using Power BI. The raw data is sourced from Kaggle. Follow the steps below to explore and visualize insights related to road safety.
 
+"The dataset is not included in the repository. You can collect the data yourself, or if you need any assistance, you can contact me at numanhusain69@gmail.com."
 ## Project Steps:
 
 1. **Requirement Gathering:**
